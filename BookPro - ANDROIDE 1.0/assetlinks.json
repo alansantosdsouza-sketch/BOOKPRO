@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.bookpro1.twa",
+        "sha256_cert_fingerprints": ["DE:93:72:F2:47:A6:7B:C4:C0:A8:75:78:EE:FD:CE:68:E8:9F:58:5A:AA:51:56:3C:42:D9:9D:86:7F:E4:27:A3"]
+      }
+    }]
